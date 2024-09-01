@@ -7,7 +7,6 @@ import MacContainer from './MacContainer'
 const App = () => {
   return( 
     <Canvas>
-      <OrbitControls />
       <MacContainer />
     </Canvas>
   )
